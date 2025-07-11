@@ -1,0 +1,8 @@
+{
+  "name": "DAI Bridged ZED20",
+  "symbol": "DAI.z",
+  "type": "ERC20",
+  "decimals": 18,
+  "chainId": 56,
+  "address": "0xC9A594E7d0Da391Fa1970B9fEF996ec24f793f17"
+}
